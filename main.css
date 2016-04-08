@@ -1,0 +1,30 @@
+/* Inserta tu código aqui */
+
+.contenedor{
+	background: #000000;
+	display: inline-block;
+	position: relative;
+	margin: 10px;
+}
+
+img{
+	opacity: 0.6;
+}
+
+img:hover{
+	opacity: 1;
+}
+
+p{
+	color: #fcf8f8;
+	position: absolute;
+	bottom: 5px;
+	right: 5px;
+}
+
+.linea{
+	width: 100px;
+	height: 3px;
+	background: #000;
+	margin-bottom: 20px;
+}
